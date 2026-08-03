@@ -1,0 +1,142 @@
+[
+  {
+    "title": "A Light in the Attic",
+    "price": "£51.77",
+    "availability": "In",
+    "rating": "Three",
+    "link": "http://books.toscrape.com/catalogue/a-light-in-the-attic_1/index.html"
+  },
+  {
+    "title": "Tipping the Velvet",
+    "price": "£53.74",
+    "availability": "In",
+    "rating": "One",
+    "link": "http://books.toscrape.com/catalogue/tipping-the-velvet_2/index.html"
+  },
+  {
+    "title": "Soumission",
+    "price": "£50.10",
+    "availability": "In",
+    "rating": "One",
+    "link": "http://books.toscrape.com/catalogue/soumission_3/index.html"
+  },
+  {
+    "title": "Sharp Objects",
+    "price": "£47.82",
+    "availability": "In",
+    "rating": "Four",
+    "link": "http://books.toscrape.com/catalogue/sharp-objects_4/index.html"
+  },
+  {
+    "title": "Sapiens: A Brief History of Humankind",
+    "price": "£54.23",
+    "availability": "In",
+    "rating": "Five",
+    "link": "http://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_5/index.html"
+  },
+  {
+    "title": "The Requiem Red",
+    "price": "£22.65",
+    "availability": "In",
+    "rating": "One",
+    "link": "http://books.toscrape.com/catalogue/the-requiem-red_6/index.html"
+  },
+  {
+    "title": "The Dirty Little Secrets of Getting Your Dream Job",
+    "price": "£33.34",
+    "availability": "In",
+    "rating": "Four",
+    "link": "http://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your_7/index.html"
+  },
+  {
+    "title": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Clarissa Howard Barton",
+    "price": "£17.93",
+    "availability": "In",
+    "rating": "Three",
+    "link": "http://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-li_8/index.html"
+  },
+  {
+    "title": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+    "price": "£22.60",
+    "availability": "In",
+    "rating": "Four",
+    "link": "http://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-_9/index.html"
+  },
+  {
+    "title": "The Black Maria",
+    "price": "£52.15",
+    "availability": "In",
+    "rating": "One",
+    "link": "http://books.toscrape.com/catalogue/the-black-maria_10/index.html"
+  },
+  {
+    "title": "Starving Hearts (Triangular Trade Trilogy, #1)",
+    "price": "£13.99",
+    "availability": "In",
+    "rating": "Two",
+    "link": "http://books.toscrape.com/catalogue/starving-hearts-(triangular-trade-trilog_11/index.html"
+  },
+  {
+    "title": "Shakespeare's Sonnets",
+    "price": "£20.66",
+    "availability": "In",
+    "rating": "Four",
+    "link": "http://books.toscrape.com/catalogue/shakespeares-sonnets_12/index.html"
+  },
+  {
+    "title": "Set Me Free",
+    "price": "£17.46",
+    "availability": "In",
+    "rating": "Five",
+    "link": "http://books.toscrape.com/catalogue/set-me-free_13/index.html"
+  },
+  {
+    "title": "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)",
+    "price": "£52.29",
+    "availability": "In",
+    "rating": "Five",
+    "link": "http://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-(sco_14/index.html"
+  },
+  {
+    "title": "Rip it Up and Start Again",
+    "price": "£35.02",
+    "availability": "In",
+    "rating": "Five",
+    "link": "http://books.toscrape.com/catalogue/rip-it-up-and-start-again_15/index.html"
+  },
+  {
+    "title": "Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",
+    "price": "£57.25",
+    "availability": "In",
+    "rating": "Three",
+    "link": "http://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-_16/index.html"
+  },
+  {
+    "title": "Olio",
+    "price": "£23.88",
+    "availability": "In",
+    "rating": "One",
+    "link": "http://books.toscrape.com/catalogue/olio_17/index.html"
+  },
+  {
+    "title": "Mesaerion: The Best Science Fiction Stories 1800-1849",
+    "price": "£37.59",
+    "availability": "In",
+    "rating": "One",
+    "link": "http://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stori_18/index.html"
+  },
+  {
+    "title": "Libertarianism for Beginners",
+    "price": "£51.33",
+    "availability": "In",
+    "rating": "Two",
+    "link": "http://books.toscrape.com/catalogue/libertarianism-for-beginners_19/index.html"
+  },
+  {
+    "title": "It's Only the Himalayas",
+    "price": "£45.17",
+    "availability": "In",
+    "rating": "Two",
+    "link": "http://books.toscrape.com/catalogue/its-only-the-himalayas_20/index.html"
+  }
+]
